@@ -1,2 +1,2 @@
 # hello-world
-Practice
+Familiarize with Github
